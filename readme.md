@@ -10,3 +10,6 @@ I will make it and update the solution
 1. I learned about datastructure espasialy,stack.
 2. I learned about this algloritm.
 3. I learned that I can devided the main problem into small problems to solve it
+## program >> v1
+## program-V2 >> v2 ,update of v1
+#### this update add the brackets to the infix
